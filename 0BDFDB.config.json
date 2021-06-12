@@ -1,0 +1,18 @@
+{
+	"changeLogs": {
+		"BDFDB": "1.7.0",
+		"BadgesEverywhere": "1.7.4",
+		"CreationDate": "1.4.1",
+		"ServerDetails": "1.0.5",
+		"ShowHiddenChannels": "2.9.7",
+		"TopRoleEverywhere": "3.0.5"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}
